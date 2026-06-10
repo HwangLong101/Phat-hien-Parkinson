@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phân loại bệnh Parkinson qua hình vẽ bằng học sâu
 
 Repository này chứa mã nguồn, dữ liệu và báo cáo cho đề tài phân loại bệnh Parkinson từ ảnh vẽ xoắn ốc/sóng bằng các mô hình học sâu sử dụng transfer learning.
@@ -221,3 +222,5 @@ report/Báo cáo PBL4.docx
 ## 12. Kết luận
 
 Kết quả cho thấy transfer learning phù hợp với bài toán phân loại bệnh Parkinson từ hình vẽ xoắn ốc trên bộ dữ liệu nhỏ. Trong các mô hình chính, VGG19 + Dropout đạt kết quả tốt nhất với accuracy 95.00%, AUC 0.9900 và recall lớp Parkinson 1.0000.
+=======
+
